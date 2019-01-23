@@ -6,9 +6,9 @@ społeczności indian zamieszkujących stan Kalifornia w USA.
 Aplikacja ma na celu wyświetlanie oraz odtwarzanie plików audio z przetłumaczonymi słowami z języka miwok na język polski z podziałem
 na kategoria
 
-# Aplikacja-PO
+# Technologie
 Program został napisany przy pomocy języka java oraz narzędzi w środowisku Android.
 
-#Użyte technologie
+Użyte technologie
 - Android SDK v27
 - Java JDK 9.0.1
