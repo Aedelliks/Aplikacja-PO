@@ -1,10 +1,10 @@
 # Aplikacja-PO
-Aplikacja wyświetlające przetłumaczone słowa na język polski z zagrożonego języka miwok, którym posługują się nieliczni przestawiciele 
+Aplikacja wyświetlające przetłumaczone słowa na język polski z zagrożonego miwok, którym posługują się nieliczni przestawiciele 
 społeczności indian zamieszkujących stan Kalifornia w USA.
 
 # Cele i założenia
 Aplikacja ma na celu wyświetlanie oraz odtwarzanie plików audio z przetłumaczonymi słowami z języka miwok na język polski z podziałem
-na kategoria
+na 4 kategorie.
 
 # Technologie
 Program został napisany przy pomocy języka java oraz narzędzi w środowisku Android.
