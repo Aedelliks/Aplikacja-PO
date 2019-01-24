@@ -1,5 +1,5 @@
 # Aplikacja-PO
-Aplikacja wyświetlająca przetłumaczone słowa na język polski z języka miwok, którym posługują się nieliczni przestawiciele 
+Aplikacja wyświetlająca przetłumaczone słowa na język polski z języka miwok, którym posługują się przestawiciele 
 społeczności indian zamieszkujących stan Kalifornia w USA.
 
 # Cele i założenia
